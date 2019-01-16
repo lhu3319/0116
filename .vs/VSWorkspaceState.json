@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Solution",
+    "\\Solution\\class1",
+    "\\Solution\\class1\\Properties",
+    "\\Solution\\ClassLibrary"
   ],
   "PreviewInSolutionExplorer": false
 }
